@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Vaibhav Kumar",
+    "label": "Software developer",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5103AQG7u0UO_C0fEg/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=X6Be4fAZ_v8vrWziOfddvxpTI_wNfNRKRbip5ICwPwQ",
+    "email": "vaibhav.iiitj+me@gmail.com",
+    "phone": "080-XXXX-XXXX",
+    "summary": "Full-stack JavaScript developer living in Tokyo. Technology and Business strategy enthusiast.",
+    "location": {
+      "city": "Tokyo",
+      "countryCode": "JP",
+      "region": "Tokyo"
+    },
+    "profiles": [
+      {
+        "network": "Medium",
+        "username": "@vaibhav_kumar",
+        "url": "https://medium.com/@vaibhav_kumar"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Vaibhav",
+        "url": "https://www.linkedin.com/in/vaibhav-kumar-a4562313/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "U-Next",
+      "position": "Senior software developer",
+      "website": "https://www.video.unext.jp/lp/en",
+      "summary": "Description...",
+      "highlights": [
+        "completed multiple projects involving technologies like nodeJS, react-redux, docker, git, nextJS, typescript, graphql etc.",
+        "apps that I have worked on: https://video.unext.jp/, https://tvh.unext.jp"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Tokyo",
+      "area": "School of Engineering",
+      "studyType": "Master",
+      "startDate": "2010-10-01",
+      "endDate": "2012-10-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Medium",
+      "website": "https://medium.com/@vaibhav_kumar",
+      "summary": "Write about technology and business strategy"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML/CSS/Javascript",
+        "Typescript",
+        "GraphQL",
+        "GIT",
+        "CI/CD",
+        "Scrum",
+        "SEO"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Working proficiency"
+    }
+  ]
+}
